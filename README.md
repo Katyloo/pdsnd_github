@@ -12,7 +12,12 @@ Bike sharing systems have been growing in popularity as an afforable way to trav
 Files used are:
 * bikeshare.py
 * README.md
+* Explore US Bikeshare Data_files
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Information for README from:
+* UDACITY, Explore US Bikeshare Data, Project Overview; https://learn.udacity.com/nanodegrees/nd104/parts/cd0024/lessons/ls1727/concepts/92bb098c-ce4d-4b51-a770-45b0ad63e7a1
+* UDACITY, Explore US Bikeshare Data, Project Details; https://learn.udacity.com/nanodegrees/nd104/parts/cd0024/lessons/ls1727/concepts/7845b970-2e46-4901-aafa-ba44702fd8fe
+* Data provided by Motivate; https://motivateco.com/
+
 

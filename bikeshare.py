@@ -22,7 +22,7 @@ def get_filters():
         print('Welcome! \nPlease choose a city: \nChicago   New York City   Washington')
         city = input().lower()
         if city not in CITY_DATA.keys():
-            print('Sorry, your entry is\'t in our system. \nPlease try again.')
+            print('Apologies, your entry is\'t in our system. \nPlease try again.')
     print(f'\nYou have choosen {city.title()}')
 
     # TO DO: get user input for month (all, january, february, ... , june)

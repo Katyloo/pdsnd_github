@@ -1,8 +1,7 @@
 ### Date created
 Bikeshare project created May 16th 2023, and README file created May 20th 2023.
 
-### Project Title
-Replace the Project Title
+### Explore US Bikeshare Data
 
 ### Description
 Describe what your project is about and what it does

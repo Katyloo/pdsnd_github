@@ -9,7 +9,9 @@ This project explores data related to bike share systems in the United States, i
 Bike sharing systems have been growing in popularity as an afforable way to travel from point A to point B. This is due to the Bike sharing sytem allowing users to rent bikes on a short term basis for a corresponding price, and allowing each bike to serve several uses per day.
 
 ### Files used
-Include the files used
+Files used are:
+* bikeshare.py
+* README.md
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.

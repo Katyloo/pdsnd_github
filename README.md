@@ -1,7 +1,7 @@
 ### Date created
 Bike Share project created May 16th 2023, and README file created May 20th 2023.
 
-### Explore US Bike Share Data
+## Explore US Bike Share Data
 
 ### Description
 This project explores data related to bike share systems in the United States, in three major cities; Chiacago, New York City and Washington.
